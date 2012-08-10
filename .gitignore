@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-target/classes/
-test-classes/
-=======
-*.class
-
 # Package Files #
 *.jar
 *.war
