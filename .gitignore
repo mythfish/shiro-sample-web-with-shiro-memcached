@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+target/classes/
+test-classes/
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+classes/
+test-classes/
+test-output/
+*.class
+target/
+*~
+logs/
+.settings/
+.classpath
+.project
+.svn
